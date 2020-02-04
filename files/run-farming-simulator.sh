@@ -5,4 +5,4 @@ export DISPLAY=:0
 /usr/bin/Xvfb $DISPLAY -ac &
 
 # Sping up farmining simulator
-WINEPREFIX=/app wine64 'C:\Program Files (x86)/Farming Simulator 2019/dedicatedServer.exe'
+WINEPREFIX=/app wine64 '/home/fs/dedicatedServer.exe'
